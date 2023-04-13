@@ -1,0 +1,30 @@
+body { 
+    text-align: center;
+    background-color: #FFE6E6;
+    font-family: 'Gloock';
+}
+
+.navbar { 
+    background-color: #FFDADA;
+}
+
+h1 { 
+    padding-top: 5%;
+    font-family: 'Pacifico';
+    font-size: 70px;
+    color: black;
+}
+
+.card { 
+    width: 11rem; 
+
+}
+
+.col { 
+    padding-left: 3%;
+    padding-top: 5%;
+}
+
+.btn { 
+    background-color: black;
+}
